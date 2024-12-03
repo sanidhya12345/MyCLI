@@ -1,0 +1,20 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "tool": {
+    "port": 6666
+  },
+  "description": "",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "pkg-up": "^4.0.0"
+  }
+}
